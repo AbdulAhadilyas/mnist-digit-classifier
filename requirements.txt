@@ -1,9 +1,15 @@
-streamlit 
-requests 
-plotly 
-fastapi 
-uvicorn 
-tensorflow==2.19.0 
-numpy 
-pillow 
-python-multipart
+# streamlit 
+# requests 
+# plotly 
+# fastapi 
+# uvicorn 
+# tensorflow==2.19.0 
+# numpy 
+# pillow 
+# python-multipart
+
+streamlit
+requests
+plotly
+numpy
+pillow

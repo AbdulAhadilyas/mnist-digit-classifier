@@ -1,5 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+python-multipart
 streamlit
 requests
-pillow
-numpy
 plotly

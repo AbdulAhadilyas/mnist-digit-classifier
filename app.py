@@ -272,7 +272,7 @@ html, body, [class*="css"] {
 #  CONSTANTS
 # ─────────────────────────────────────────────
 
-API_URL = "http://127.0.0.1:8000/predict/"
+API_URL = "https://memon122-mnist-digit-classifier.hf.space/predict/"
 
 SAMPLE_DIR = "sample_digits"
 

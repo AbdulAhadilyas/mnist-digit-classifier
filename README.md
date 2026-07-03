@@ -8,9 +8,7 @@ A Deep Learning and Computer Vision project that classifies handwritten digits (
 🔗 https://mnist-digit-classifiergit-vaakx2eoj4kkqfgubsmebw.streamlit.app/
 
 ### Backend API (FastAPI)
-🔗 https://YOUR-HUGGINGFACE-SPACE.hf.space
-
-> Replace the above URL with your deployed Hugging Face Space URL.
+🔗 https://memon122-mnist-digit-classifier.hf.space/
 
 ---
 
